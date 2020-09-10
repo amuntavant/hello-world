@@ -1,5 +1,5 @@
 # hello-world
 Començant a programar...
-Bueno, aquí ando, comenzando a escribir código . Amante de la naturalez, los animales, la música y la domótica.
+Bueno, aquí ando, comenzando a escribir código . Amante de la naturaleza, los animales, la música y la domótica.
 Dejo un rato el teclado del piano por el del ordenador.
 A ver que sale de aquí...
